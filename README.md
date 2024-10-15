@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
+<h1 align="center">Hi 👋, I'm savenchakra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 ## Connect with me :-
